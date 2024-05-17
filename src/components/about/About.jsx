@@ -1,7 +1,7 @@
 /* eslint-disable jsx-a11y/img-redundant-alt */
 import React from 'react';
 import './about.css';
-import Me from '../../asset/me-about.jpg';
+import Me from '../../asset/about-me1.JPG';
 import {FaAward} from 'react-icons/fa';
 import {FiUsers} from 'react-icons/fi';
 import {VscFolderOpened} from 'react-icons/vsc';
@@ -31,20 +31,19 @@ const About = () => {
               <article className='about-card'>
                 <FiUsers className='about-icon'/>
                 <h5>Clients</h5>
-                <small>100+ WorldWide</small>
+                <small>05+ WorldWide</small>
               </article>
 
               <article className='about-card'>
                 <VscFolderOpened className='about-icon'/>
                 <h5>Projects</h5>
-                <small>50+ completed</small>
+                <small>33+ completed</small>
               </article>
            </div>
 
            <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing
-              tempore labore, pariatur saepe cupiditate mollitia nulla
-              tempora aut atque maiores illum! Ab omnis sit corporis.
+            I am a Front-End Web Developer, I'm working in this industry for long period. Client satisfaction is my top priority.I can create attractive front-end webpages.
+            However,I have specialized skill in React.js. Through me, you could establish businesses .
            </p>
            <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
