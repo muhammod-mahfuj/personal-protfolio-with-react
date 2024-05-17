@@ -16,23 +16,23 @@ import 'swiper/css/pagination';
 const data = [
   {
     avatar : ava1,
-    name : 'Ernnot arhieve',
-    review: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore, veniam. Ut quibusdam corporis, delectus deserunt maiores nesciunt voluptates officia quidem!'
+    name : 'Dwifa mayrizka',
+    review: 'He is a really talented developer. My own view is that he is finest.'
   },
   {
     avatar : ava2,
     name : 'Yaqub Akbar',
-    review: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore, veniam. Ut quibusdam corporis, delectus deserunt maiores nesciunt voluptates officia quidem!'
+    review: 'He is an excellent developer. In my view, he is the greatest.'
   },
   {
     avatar : ava3,
     name : 'Atik Arman',
-    review: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore, veniam. Ut quibusdam corporis, delectus deserunt maiores nesciunt voluptates officia quidem!'
+    review: 'He is an excellent developer. In my view, he is the greatest.'
   },
   {
     avatar : ava4,
     name : 'Alisha Akbar',
-    review: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore, veniam. Ut quibusdam corporis, delectus deserunt maiores nesciunt voluptates officia quidem!'
+    review: 'He is an excellent developer. In my view, he is the greatest. & I hope he will be my husbend . By the way, it is not my picture.'
   }
 ];
 const Testimonials = () => {

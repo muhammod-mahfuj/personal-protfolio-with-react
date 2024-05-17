@@ -1,54 +1,54 @@
 import React from 'react';
 import './portfolio.css'
-import img1 from '../../asset/portfolio1.jpg';
-import img2 from '../../asset/portfolio2.jpg';
-import img3 from '../../asset/portfolio3.jpg';
-import img4 from '../../asset/portfolio4.jpg';
-import img5 from '../../asset/portfolio5.png';
-import img6 from '../../asset/portfolio6.jpg';
+import img1 from '../../asset/img1.png';
+import img2 from '../../asset/img2.png';
+import img3 from '../../asset/img3.png';
+import img4 from '../../asset/img4.png';
+import img5 from '../../asset/img5.png';
+import img6 from '../../asset/img6.png';
 
 const data = [
    {
       id : 1 ,
       image: img1 ,
-      title: 'Crypto currency Dashboard & Financial Visualization' ,
-      github: 'https://github.com',
-      demo: 'https://dribbble.com/alien_pixels'
+      title: 'Portfolio by HTML,CSS & JavaScript ' ,
+      github: 'https://github.com/muhammod-mahfuj/Normal-Protfoilo.git://github.comhttps://github.com/muhammod-mahfuj/Normal-Protfoilo.git',
+      demo: 'https://md-mahfuj.netlify.app'
    },
    {
       id : 2 ,
       image: img2 ,
-      title: 'Charts templates & infographics in figma' ,
-      github: 'https://github.com',
-      demo: 'https://dribbble.com/alien_pixels'
+      title: 'Food Delivery Wedpages' ,
+      github: 'https://github.com/muhammod-mahfuj/Hungry-Food-D-.git',
+      demo: 'https://hunngry.netlify.app/'
    },
    {
       id : 3 ,
       image: img3 ,
-      title:  "Figma Dashboard UI kit for data design web apps" ,
-      github: 'https://github.com',
-      demo: 'https://dribbble.com/alien_pixels'
+      title:  "NetFlix clone" ,
+      github: 'https://github.https://github.com/muhammod-mahfuj/matflix.gitcom',
+      demo: 'https://msrsmatflix.netlify.app'
    },
    {
       id : 4 ,
       image: img4 ,
-      title: 'Maintaining tasks and tracking progress' ,
-      github: 'https://github.com',
-      demo: 'https://dribbble.com/alien_pixels'
+      title: 'Basic colorfull template' ,
+      github: 'https://github.https://github.com/muhammod-mahfuj/colourfull-templeate.git',
+      demo: 'https://colourfull-wedsite.netlify.app/'
    },
    {
       id : 5 ,
       image: img5 ,
-      title: 'Charts templation & infographics in figma' ,
-      github: 'https://github.com',
-      demo: 'https://dribbble.com/alien_pixels'
+      title: 'React Portfolio' ,
+      github: 'https://github.com/muhammod-mahfuj/personal-protfolio-with-react.git',
+      demo: 'https://msrs-mahfuj.netlify.app'
    },
    {
       id : 6 ,
       image: img6 ,
-      title: 'Charts templates & graphics in figma' ,
-      github: 'https://github.com',
-      demo: 'https://dribbble.com/alien_pixels'
+      title: 'SunSide Template' ,
+      github: 'https://github.com/muhammod-mahfuj/sunny-side.git',
+      demo: 'https://msrs-ltd-348ee6.netlify.app/'
    }
 ];
 const Portfolio = () => {
