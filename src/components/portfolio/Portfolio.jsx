@@ -20,7 +20,7 @@ const data = [
       image: img2 ,
       title: 'Food Delivery Wedpages' ,
       github: 'https://github.com/muhammod-mahfuj/Hungry-Food-D-.git',
-      demo: 'https://hunngry.netlify.app/'
+      demo: 'https://hunngry.netlify./'
    },
    {
       id : 3 ,
